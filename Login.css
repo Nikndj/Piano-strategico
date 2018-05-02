@@ -1,0 +1,16 @@
+#submit{
+    color: whitesmoke;
+    background-color: blue;
+}
+label { background: royalblue; color: whitesmoke; padding: 3px; }
+input[type="text"], input[type="password"] { width: 324px; border: 3px solid #999; font-size: 18px; padding: 7px; display: block; }
+input[type="submit"]{width: 200px; border: 2px solid royalblue; font-size: 18px; padding: 3px}
+footer p{
+   text-align: right;
+}
+#mainTitle{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    padding: 10px;
+    color: tomato;
+    border: 3px solid #999;
+}
